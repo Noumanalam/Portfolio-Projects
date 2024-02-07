@@ -1,1 +1,1 @@
-Hi there, My name is Muhammad Nouman Alam. I'm studying Data science and interested in Machine learning, Deep learning field. So this is the my profile and i upload the portfolio project here. Kindly visit my projects and share your experience. Much love. Thank you.
+Hi there, My name is Muhammad Nouman Alam. I'm studying Data science and am interested in Machine learning and deep learning field. So this is my profile and I upload the portfolio project here. Kindly visit my projects and share your experience. Much love. Thank you.
